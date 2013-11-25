@@ -7,23 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 2014,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "{\n	\"shell_cmd\": \"make\"\n}\n",
-			"settings":
-			{
-				"buffer_size": 25,
-				"line_ending": "Unix",
-				"name": "untitled.sublime-build"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -64,6 +47,7 @@
 	},
 	"file_history":
 	[
+		"/home/max/Dropbox/Website/MekkaMannen.git/index.html",
 		"/home/max/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
 		"/home/max/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
 		"/home/max/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
@@ -72,7 +56,6 @@
 		"/home/max/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
 		"/home/max/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
 		"/home/max/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
-		"/home/max/Dropbox/Website/MekkaMannen.git/index.html",
 		"/home/max/Dropbox/Website/MekkaMannen.sublime-project",
 		"/home/max/Dropbox/Website/MekkaMannen.git/index.sublime-project",
 		"/tmp/dbxl2YZFSN.html",
@@ -153,65 +136,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2014,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								479,
-								479
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 25,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21,
-								21
-							]
-						],
-						"settings":
-						{
-							"default_dir": "/home/max/.config/sublime-text-3/Packages/User",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
