@@ -25,8 +25,8 @@ html, input {
 }
 
 body {
-	max-width: 480px;
-	width: 480px;
+	max-width: 500px;
+	width: 500px;
 	padding: 30px 20px 50px;
 	border: 1px solid #b3b3b3;
 	border-radius: 4px;
@@ -50,7 +50,7 @@ p {
 }
 
 .container {
-	max-width: 350px;
-	_width: 350px;
+	max-width: 380px;
+	_width: 380px;
 	margin: 0 auto;
 }
