@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2014,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	\"shell_cmd\": \"make\"\n}\n",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/max/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/max/Dropbox/Website/MekkaMannen.git/index.html",
+		"/home/max/Dropbox/Website/MekkaMannen.sublime-project",
+		"/home/max/Dropbox/Website/MekkaMannen.git/index.sublime-project",
+		"/tmp/dbxl2YZFSN.html",
+		"/tmp/dbxlmT988z.html",
+		"/home/max/Documents/Websites/MekkMannen/404.html",
+		"/home/max/Dropbox/Website/MekkaMannen/index.html",
+		"/home/max/Copy/Mekkamannen/about.html",
+		"/home/max/Copy/Mekkamannen/random.html",
+		"/home/max/Copy/Mekkamannen/dafuq.html",
+		"/home/max/Copy/Mekkamannen/index.html",
+		"/home/max/Copy/Mekkamannen/css/style-mobile.css",
+		"/home/max/Copy/Mekkamannen/css/style-desktop.css",
+		"/home/max/Copy/Mekkamannen/css/style-1000px.css",
+		"/home/max/Copy/Mekkamannen/css/style.css",
+		"/home/max/Copy/Mekkamannen/css/skel-noscript.css",
+		"/home/max/Copy/Mekkamannen/css/ie8.css",
+		"/home/max/Copy/Mekkamannen/js/skel-panels.min.js",
+		"/home/max/Copy/Mekkamannen/js/skel.min.js",
+		"/home/max/Copy/Mekkamannen/js/jquery.min.js",
+		"/home/max/Copy/Mekkamannen/js/jquery.dropotron.min.js",
+		"/home/max/Copy/Mekkamannen/js/html5shiv.js",
+		"/home/max/Copy/Mekkamannen/js/config.js",
+		"/home/max/Downloads/index.html",
+		"/home/max/Downloads/no-sidebar.html",
+		"/home/max/Downloads/js/skel-panels.min.js",
+		"/home/max/Downloads/js/skel.min.js",
+		"/home/max/Downloads/js/jquery.min.js",
+		"/home/max/Downloads/js/jquery.dropotron.min.js",
+		"/home/max/Downloads/css/style.css",
+		"/home/max/Downloads/js/html5shiv.js",
+		"/home/max/Downloads/js/config.js",
+		"/home/max/Downloads/css/style-desktop.css",
+		"/home/max/Downloads/css/style-mobile.css",
+		"/home/max/Downloads/css/style-1000px.css",
+		"/home/max/Downloads/css/ie8.css",
+		"/home/max/Downloads/css/skel-noscript.css",
+		"/home/max/Downloads/left-sidebar.html",
+		"/home/max/Copy/Mekkamannen/css/main.css",
+		"/home/max/Copy/Mekkamannen/crossdomain.xml",
+		"/home/max/Dropbox/Website/mekkamannen/404.html",
+		"/home/max/Dropbox/Website/mekkamannen/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"height",
+			"12u",
+			"nav",
+			"		</"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/max/.config/sublime-text-3/Packages/User",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "MekkaMannen.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Website/MekkaMannen.git/index.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
