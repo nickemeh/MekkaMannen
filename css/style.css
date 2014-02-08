@@ -84,6 +84,10 @@ h1 {
 	font-size: 36px;
 }
 
+h2 {
+	font-size: 20px;
+}
+
 a, a:link, a:visited, a:hover, a:active, a:focus{
 	color: #4080bf;
 	text-decoration: none;
