@@ -1,4 +1,4 @@
-::-moz-selection {
+/*::-moz-selection {
 	background: #b3d4fc;
 	text-shadow: none;
 }
@@ -31,19 +31,9 @@ body {
 	background: #fcfcfc;
 }
 
-h1 {
-	margin: 0 10px 20px 0;
-	font-size: 50px;
-	text-align: center;
-}
 
-h1 span {
-	color: #bbb;
-}
 
-p {
-	margin: 0;
-}
+
 
 #container {
 	max-width: 320px;
@@ -52,7 +42,37 @@ p {
 	margin: 0 auto;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
+ 	body {
+ 	width: 100%;
+ 	}
+}*/
+
+html {
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: 100%;
+	color: #737373;
+	background: #fcfcfc;
+	font-family: sans-serif;
+}
+
+body{
+   text-align: center; /*Center Page for IE6*/
+   padding: 30px 20px 50px;
+}
+
+p {
+	margin: 0;
+}
+
+#container{
+   width: 420px;
+   margin: 0 auto;/*
+   text-align: left;*/
+}
+
+@media screen and (max-width: 420px) {
  	#container {
  	width: 100%;
  	}
