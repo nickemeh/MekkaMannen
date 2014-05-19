@@ -2,8 +2,8 @@ html {
 	-webkit-text-size-adjust: 100%;
 	-moz-text-size-adjust: none;
 	-ms-text-size-adjust: 100%;
-	color: #737373;
-	background: #fcfcfc;
+	color: #586e75;
+	background: #fdf6e3;
 	font-family: sans-serif;
 }
 
@@ -17,12 +17,17 @@ body{
 }
 
 a, a:link, a:visited, a:active, a:focus{
-	color: #737373;
+	color: #b58900;
 	text-decoration: none;
 }
 
+a:link {
+	-webkit-tap-highlight-color: #FF5E99;
+}
+
 a:hover{
-	color: #4d4d4d;
+	color: #b58900;
+	background-color: #eee8d5;
 	text-decoration: none;
 }
 
@@ -30,7 +35,7 @@ code {
 	font-family: monospace;
 }
 
-#container{
+#container {
    width: 720px;
    margin: 0 auto;
    text-align: left;
@@ -41,3 +46,6 @@ code {
  	width: 100%;
  	}
 }
+
+::-moz-selection { background: #FF5E99; color:#fff; text-shadow: none; }
+::selection { background:#FF5E99; color:#fff; text-shadow: none; }

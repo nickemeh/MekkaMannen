@@ -2,8 +2,8 @@ html {
 	-webkit-text-size-adjust: 100%;
 	-moz-text-size-adjust: none;
 	-ms-text-size-adjust: 100%;
-	color: #737373;
-	background: #fcfcfc;
+	color: #586e75;
+	background: #fdf6e3;
 	font-family: sans-serif;
 }
 
@@ -11,6 +11,7 @@ body{
    text-align: center;
    padding: 30px 20px 50px;
 }
+
 
 p {
 	margin: 0;
@@ -26,3 +27,6 @@ p {
  	width: 100%;
  	}
 }
+
+::-moz-selection { background: #FF5E99; color:#fff; text-shadow: none; }
+::selection { background:#FF5E99; color:#fff; text-shadow: none; }
