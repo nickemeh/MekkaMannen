@@ -7,12 +7,20 @@ html {
 	font-family: sans-serif;
 }
 
-body{
+body {
    text-align: center; /*Center Page for IE6*/
    padding: 30px 20px 50px;
 }
 
-#container{
+h1,h2,h3,h4,h5,h6 {
+	color: #b58900;
+}
+
+strong {
+	color: #586e75;
+}
+
+#container {
    width: 720px;
    margin: 0 auto;
    text-align: left;
