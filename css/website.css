@@ -2,8 +2,8 @@ html {
 	-webkit-text-size-adjust: 100%;
 	-moz-text-size-adjust: none;
 	-ms-text-size-adjust: 100%;
-	color: #586e75;
-	background: #fdf6e3;
+	color: #f8f8f2;
+	background: #272822;
 	font-family: sans-serif;
 }
 
@@ -13,11 +13,11 @@ body {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #b58900;
+	color: #f92672;
 }
 
 strong {
-	color: #586e75;
+	color: #f9f8f5;
 }
 
 #container {
@@ -32,5 +32,5 @@ strong {
  	}
 }
 
-::-moz-selection { background: #FF5E99; color:#fff; text-shadow: none; }
-::selection { background:#FF5E99; color:#fff; text-shadow: none; }
+::-moz-selection { background: #a6e22e;; color:#fff; text-shadow: none; }
+::selection { background: #a6e22e; color:#fff; text-shadow: none; }
