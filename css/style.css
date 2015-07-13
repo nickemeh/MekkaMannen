@@ -3,7 +3,7 @@ html {
 	-moz-text-size-adjust: none;
 	-ms-text-size-adjust: 100%;
 	color: #f8f8f2;
-	background: #272822;
+	background: url(../images/fuu.png) fixed no-repeat bottom right #272822;
 	font-family: sans-serif;
 }
 
@@ -39,6 +39,7 @@ code {
    width: 720px;
    margin: 0 auto;
    text-align: left;
+    
 }
 
 @media screen and (max-width: 720px) {
