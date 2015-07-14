@@ -1,0 +1,68 @@
+html {
+	-webkit-text-size-adjust: 100%;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: 100%;
+	color: #f8f8f2;
+	background: url(../images/mugi.png) fixed no-repeat bottom right #272822;
+	font-family: sans-serif;
+}
+
+body{
+   text-align: center; /*Center Page for IE6*/
+   padding: 30px 20px 50px;
+}
+
+.rekt{
+	color: #f92672;
+}
+
+.have{
+	color: #f92672;
+}
+
+.had{
+	color: #909090;
+}
+
+.want{
+	color: #ffffff;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+a, a:link, a:visited, a:active, a:focus{
+	color: #f92672;
+	text-decoration: none;
+}
+
+a:link {
+	-webkit-tap-highlight-color: #a6e22e;
+}
+
+a:hover{
+	color: #66d9ef;
+	background-color: #49483e;
+	text-decoration: none;
+}
+
+code {
+	font-family: monospace;
+}
+
+#container {
+   width: 720px;
+   margin: 0 auto;
+   text-align: left;
+    
+}
+
+@media screen and (max-width: 720px) {
+ 	#container {
+ 	width: 100%;
+ 	}
+}
+
+::-moz-selection { background: #a6e22e;; color:#fff; text-shadow: none; }
+::selection { background: #a6e22e; color:#fff; text-shadow: none; }
