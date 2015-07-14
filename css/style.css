@@ -12,6 +12,22 @@ body{
    padding: 30px 20px 50px;
 }
 
+.rekt{
+	color: #f92672;
+}
+
+.have{
+	color: #f92672;
+}
+
+.had{
+	color: #909090;
+}
+
+.want{
+	color: #ffffff;
+}
+
 .bold{
 	font-weight: bold;
 }
